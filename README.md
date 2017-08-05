@@ -1,2 +1,4 @@
-# minetest-ceresium
-A subgame for the minetest engine
+# Ceresium
+
+Ceresium is a game for the [Minetest](http://www.minetest.net/) engine.
+
